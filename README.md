@@ -1,6 +1,24 @@
 # WingsOfTheSea
 Wings of the Sea is a 3D Processing adventure set in a magical universe. Rosa, a fairy searching for her lost bunny Lumi, journeys through an enchanted forest and a mystical lake. Along the way, she shifts between fairy and mermaid forms, avoids obstacles, collects magical petals and pearls, and races toward her fate.
 
+## Gameplay Preview
+
+Experience the magical journey of Rosa as she explores
+an enchanted forest and transforms into a mermaid
+to navigate the mystical lake.
+
+<p align="center">
+  <img src="media/gameplay.gif"
+       alt="Wings of the Sea Gameplay"
+       width="800">
+</p>
+
+## Screenshots
+
+| Enchanted Forest | Magical Lake |
+|:---:|:---:|
+| ![Forest Gameplay](media/forest.png) | ![Lake Gameplay](media/lake.png) |
+
 # How to Run
 1. Install Processing.
 2. Open WingsOfTheSea.pde in Processing.
